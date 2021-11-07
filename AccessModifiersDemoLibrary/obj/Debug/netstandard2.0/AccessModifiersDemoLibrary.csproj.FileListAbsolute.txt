@@ -1,0 +1,9 @@
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.csprojAssemblyReference.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.AssemblyInfoInputs.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.AssemblyInfo.cs
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\bin\Debug\netstandard2.0\AccessModifiersDemoLibrary.deps.json
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\bin\Debug\netstandard2.0\AccessModifiersDemoLibrary.dll
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\bin\Debug\netstandard2.0\AccessModifiersDemoLibrary.pdb
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.dll
+C:\Users\kasra\OneDrive\Desktop\Software\C#\Access Modifiers\Fields\AccessModifiersDemoLibrary\obj\Debug\netstandard2.0\AccessModifiersDemoLibrary.pdb
